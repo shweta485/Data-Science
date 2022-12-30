@@ -1,3 +1,7 @@
 # # First Heading
 
-This is git hub class
+This is git hub lecture
+
+# # Second Heading 
+
+We are learing github
