@@ -1,0 +1,11 @@
+matches per team - bar plot
+number of grounds -  list
+number of matches per ground - bar plot
+number of matches per year - bar plot
+number of wins per team - bar plot
+venue vs toss decision - hist
+number player of match per player -  bar plot
+number of matches per empire - bar plot
+batting/bowling selected per team - hist 
+tosses won per team - bar plot
+team vs toss decision - hist
